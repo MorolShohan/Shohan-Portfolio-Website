@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shohan-Portfolio-Website/static/css/main.bf538fe7.css",
+    "main.js": "/Shohan-Portfolio-Website/static/js/main.edc2b93c.js",
+    "static/media/shohan.jpg": "/Shohan-Portfolio-Website/static/media/shohan.0cb9e447e5e29122d8ae.jpg",
+    "index.html": "/Shohan-Portfolio-Website/index.html",
+    "main.bf538fe7.css.map": "/Shohan-Portfolio-Website/static/css/main.bf538fe7.css.map",
+    "main.edc2b93c.js.map": "/Shohan-Portfolio-Website/static/js/main.edc2b93c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.edc2b93c.js"
+  ]
+}
